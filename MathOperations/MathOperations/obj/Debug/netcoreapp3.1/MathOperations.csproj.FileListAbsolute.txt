@@ -1,0 +1,28 @@
+C:\Users\Tornike\source\repos\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.exe
+C:\Users\Tornike\source\repos\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.deps.json
+C:\Users\Tornike\source\repos\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.json
+C:\Users\Tornike\source\repos\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.dev.json
+C:\Users\Tornike\source\repos\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\Tornike\source\repos\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\Tornike\source\repos\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.csproj.AssemblyReference.cache
+C:\Users\Tornike\source\repos\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tornike\source\repos\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfoInputs.cache
+C:\Users\Tornike\source\repos\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfo.cs
+C:\Users\Tornike\source\repos\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Tornike\source\repos\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\Tornike\source\repos\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\Tornike\source\repos\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.genruntimeconfig.cache
+C:\Users\Tornike\source\repos\Tornike Khamitsashvili Projects\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.exe
+C:\Users\Tornike\source\repos\Tornike Khamitsashvili Projects\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.deps.json
+C:\Users\Tornike\source\repos\Tornike Khamitsashvili Projects\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.json
+C:\Users\Tornike\source\repos\Tornike Khamitsashvili Projects\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.runtimeconfig.dev.json
+C:\Users\Tornike\source\repos\Tornike Khamitsashvili Projects\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\Tornike\source\repos\Tornike Khamitsashvili Projects\MathOperations\MathOperations\bin\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\Tornike\source\repos\Tornike Khamitsashvili Projects\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.csproj.AssemblyReference.cache
+C:\Users\Tornike\source\repos\Tornike Khamitsashvili Projects\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tornike\source\repos\Tornike Khamitsashvili Projects\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfoInputs.cache
+C:\Users\Tornike\source\repos\Tornike Khamitsashvili Projects\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.AssemblyInfo.cs
+C:\Users\Tornike\source\repos\Tornike Khamitsashvili Projects\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Tornike\source\repos\Tornike Khamitsashvili Projects\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.dll
+C:\Users\Tornike\source\repos\Tornike Khamitsashvili Projects\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.pdb
+C:\Users\Tornike\source\repos\Tornike Khamitsashvili Projects\MathOperations\MathOperations\obj\Debug\netcoreapp3.1\MathOperations.genruntimeconfig.cache

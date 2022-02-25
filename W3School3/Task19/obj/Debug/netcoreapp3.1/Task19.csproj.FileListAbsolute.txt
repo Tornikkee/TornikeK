@@ -1,0 +1,14 @@
+C:\Users\Tornike\source\repos\W3School3\Task19\bin\Debug\netcoreapp3.1\Task19.exe
+C:\Users\Tornike\source\repos\W3School3\Task19\bin\Debug\netcoreapp3.1\Task19.deps.json
+C:\Users\Tornike\source\repos\W3School3\Task19\bin\Debug\netcoreapp3.1\Task19.runtimeconfig.json
+C:\Users\Tornike\source\repos\W3School3\Task19\bin\Debug\netcoreapp3.1\Task19.runtimeconfig.dev.json
+C:\Users\Tornike\source\repos\W3School3\Task19\bin\Debug\netcoreapp3.1\Task19.dll
+C:\Users\Tornike\source\repos\W3School3\Task19\bin\Debug\netcoreapp3.1\Task19.pdb
+C:\Users\Tornike\source\repos\W3School3\Task19\obj\Debug\netcoreapp3.1\Task19.csproj.AssemblyReference.cache
+C:\Users\Tornike\source\repos\W3School3\Task19\obj\Debug\netcoreapp3.1\Task19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tornike\source\repos\W3School3\Task19\obj\Debug\netcoreapp3.1\Task19.AssemblyInfoInputs.cache
+C:\Users\Tornike\source\repos\W3School3\Task19\obj\Debug\netcoreapp3.1\Task19.AssemblyInfo.cs
+C:\Users\Tornike\source\repos\W3School3\Task19\obj\Debug\netcoreapp3.1\Task19.csproj.CoreCompileInputs.cache
+C:\Users\Tornike\source\repos\W3School3\Task19\obj\Debug\netcoreapp3.1\Task19.dll
+C:\Users\Tornike\source\repos\W3School3\Task19\obj\Debug\netcoreapp3.1\Task19.pdb
+C:\Users\Tornike\source\repos\W3School3\Task19\obj\Debug\netcoreapp3.1\Task19.genruntimeconfig.cache

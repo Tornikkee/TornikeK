@@ -1,0 +1,14 @@
+C:\Users\Tornike\source\repos\GeometricShapes\GeometricShapes\bin\Debug\netcoreapp3.1\GeometricShapes.exe
+C:\Users\Tornike\source\repos\GeometricShapes\GeometricShapes\bin\Debug\netcoreapp3.1\GeometricShapes.deps.json
+C:\Users\Tornike\source\repos\GeometricShapes\GeometricShapes\bin\Debug\netcoreapp3.1\GeometricShapes.runtimeconfig.json
+C:\Users\Tornike\source\repos\GeometricShapes\GeometricShapes\bin\Debug\netcoreapp3.1\GeometricShapes.runtimeconfig.dev.json
+C:\Users\Tornike\source\repos\GeometricShapes\GeometricShapes\bin\Debug\netcoreapp3.1\GeometricShapes.dll
+C:\Users\Tornike\source\repos\GeometricShapes\GeometricShapes\bin\Debug\netcoreapp3.1\GeometricShapes.pdb
+C:\Users\Tornike\source\repos\GeometricShapes\GeometricShapes\obj\Debug\netcoreapp3.1\GeometricShapes.csproj.AssemblyReference.cache
+C:\Users\Tornike\source\repos\GeometricShapes\GeometricShapes\obj\Debug\netcoreapp3.1\GeometricShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tornike\source\repos\GeometricShapes\GeometricShapes\obj\Debug\netcoreapp3.1\GeometricShapes.AssemblyInfoInputs.cache
+C:\Users\Tornike\source\repos\GeometricShapes\GeometricShapes\obj\Debug\netcoreapp3.1\GeometricShapes.AssemblyInfo.cs
+C:\Users\Tornike\source\repos\GeometricShapes\GeometricShapes\obj\Debug\netcoreapp3.1\GeometricShapes.csproj.CoreCompileInputs.cache
+C:\Users\Tornike\source\repos\GeometricShapes\GeometricShapes\obj\Debug\netcoreapp3.1\GeometricShapes.dll
+C:\Users\Tornike\source\repos\GeometricShapes\GeometricShapes\obj\Debug\netcoreapp3.1\GeometricShapes.pdb
+C:\Users\Tornike\source\repos\GeometricShapes\GeometricShapes\obj\Debug\netcoreapp3.1\GeometricShapes.genruntimeconfig.cache
