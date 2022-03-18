@@ -1,0 +1,13 @@
+C:\Users\Tornike\source\repos\W3School7\Task85\bin\Debug\netcoreapp3.1\Task85.exe
+C:\Users\Tornike\source\repos\W3School7\Task85\bin\Debug\netcoreapp3.1\Task85.deps.json
+C:\Users\Tornike\source\repos\W3School7\Task85\bin\Debug\netcoreapp3.1\Task85.runtimeconfig.json
+C:\Users\Tornike\source\repos\W3School7\Task85\bin\Debug\netcoreapp3.1\Task85.runtimeconfig.dev.json
+C:\Users\Tornike\source\repos\W3School7\Task85\bin\Debug\netcoreapp3.1\Task85.dll
+C:\Users\Tornike\source\repos\W3School7\Task85\bin\Debug\netcoreapp3.1\Task85.pdb
+C:\Users\Tornike\source\repos\W3School7\Task85\obj\Debug\netcoreapp3.1\Task85.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tornike\source\repos\W3School7\Task85\obj\Debug\netcoreapp3.1\Task85.AssemblyInfoInputs.cache
+C:\Users\Tornike\source\repos\W3School7\Task85\obj\Debug\netcoreapp3.1\Task85.AssemblyInfo.cs
+C:\Users\Tornike\source\repos\W3School7\Task85\obj\Debug\netcoreapp3.1\Task85.csproj.CoreCompileInputs.cache
+C:\Users\Tornike\source\repos\W3School7\Task85\obj\Debug\netcoreapp3.1\Task85.dll
+C:\Users\Tornike\source\repos\W3School7\Task85\obj\Debug\netcoreapp3.1\Task85.pdb
+C:\Users\Tornike\source\repos\W3School7\Task85\obj\Debug\netcoreapp3.1\Task85.genruntimeconfig.cache

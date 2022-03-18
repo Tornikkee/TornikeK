@@ -1,0 +1,13 @@
+C:\Users\Tornike\source\repos\W3School9\Task144\bin\Debug\netcoreapp3.1\Task144.exe
+C:\Users\Tornike\source\repos\W3School9\Task144\bin\Debug\netcoreapp3.1\Task144.deps.json
+C:\Users\Tornike\source\repos\W3School9\Task144\bin\Debug\netcoreapp3.1\Task144.runtimeconfig.json
+C:\Users\Tornike\source\repos\W3School9\Task144\bin\Debug\netcoreapp3.1\Task144.runtimeconfig.dev.json
+C:\Users\Tornike\source\repos\W3School9\Task144\bin\Debug\netcoreapp3.1\Task144.dll
+C:\Users\Tornike\source\repos\W3School9\Task144\bin\Debug\netcoreapp3.1\Task144.pdb
+C:\Users\Tornike\source\repos\W3School9\Task144\obj\Debug\netcoreapp3.1\Task144.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tornike\source\repos\W3School9\Task144\obj\Debug\netcoreapp3.1\Task144.AssemblyInfoInputs.cache
+C:\Users\Tornike\source\repos\W3School9\Task144\obj\Debug\netcoreapp3.1\Task144.AssemblyInfo.cs
+C:\Users\Tornike\source\repos\W3School9\Task144\obj\Debug\netcoreapp3.1\Task144.csproj.CoreCompileInputs.cache
+C:\Users\Tornike\source\repos\W3School9\Task144\obj\Debug\netcoreapp3.1\Task144.dll
+C:\Users\Tornike\source\repos\W3School9\Task144\obj\Debug\netcoreapp3.1\Task144.pdb
+C:\Users\Tornike\source\repos\W3School9\Task144\obj\Debug\netcoreapp3.1\Task144.genruntimeconfig.cache

@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tornike\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tornike\\.nuget\\packages"
+    ]
+  }
+}

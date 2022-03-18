@@ -1,0 +1,13 @@
+C:\Users\Tornike\source\repos\W3School6\Task53\bin\Debug\netcoreapp3.1\Task53.exe
+C:\Users\Tornike\source\repos\W3School6\Task53\bin\Debug\netcoreapp3.1\Task53.deps.json
+C:\Users\Tornike\source\repos\W3School6\Task53\bin\Debug\netcoreapp3.1\Task53.runtimeconfig.json
+C:\Users\Tornike\source\repos\W3School6\Task53\bin\Debug\netcoreapp3.1\Task53.runtimeconfig.dev.json
+C:\Users\Tornike\source\repos\W3School6\Task53\bin\Debug\netcoreapp3.1\Task53.dll
+C:\Users\Tornike\source\repos\W3School6\Task53\bin\Debug\netcoreapp3.1\Task53.pdb
+C:\Users\Tornike\source\repos\W3School6\Task53\obj\Debug\netcoreapp3.1\Task53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tornike\source\repos\W3School6\Task53\obj\Debug\netcoreapp3.1\Task53.AssemblyInfoInputs.cache
+C:\Users\Tornike\source\repos\W3School6\Task53\obj\Debug\netcoreapp3.1\Task53.AssemblyInfo.cs
+C:\Users\Tornike\source\repos\W3School6\Task53\obj\Debug\netcoreapp3.1\Task53.csproj.CoreCompileInputs.cache
+C:\Users\Tornike\source\repos\W3School6\Task53\obj\Debug\netcoreapp3.1\Task53.dll
+C:\Users\Tornike\source\repos\W3School6\Task53\obj\Debug\netcoreapp3.1\Task53.pdb
+C:\Users\Tornike\source\repos\W3School6\Task53\obj\Debug\netcoreapp3.1\Task53.genruntimeconfig.cache

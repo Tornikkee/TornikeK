@@ -1,0 +1,14 @@
+C:\Users\Tornike\source\repos\W3School7\W3School7\bin\Debug\netcoreapp3.1\W3School7.exe
+C:\Users\Tornike\source\repos\W3School7\W3School7\bin\Debug\netcoreapp3.1\W3School7.deps.json
+C:\Users\Tornike\source\repos\W3School7\W3School7\bin\Debug\netcoreapp3.1\W3School7.runtimeconfig.json
+C:\Users\Tornike\source\repos\W3School7\W3School7\bin\Debug\netcoreapp3.1\W3School7.runtimeconfig.dev.json
+C:\Users\Tornike\source\repos\W3School7\W3School7\bin\Debug\netcoreapp3.1\W3School7.dll
+C:\Users\Tornike\source\repos\W3School7\W3School7\bin\Debug\netcoreapp3.1\W3School7.pdb
+C:\Users\Tornike\source\repos\W3School7\W3School7\obj\Debug\netcoreapp3.1\W3School7.csproj.AssemblyReference.cache
+C:\Users\Tornike\source\repos\W3School7\W3School7\obj\Debug\netcoreapp3.1\W3School7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tornike\source\repos\W3School7\W3School7\obj\Debug\netcoreapp3.1\W3School7.AssemblyInfoInputs.cache
+C:\Users\Tornike\source\repos\W3School7\W3School7\obj\Debug\netcoreapp3.1\W3School7.AssemblyInfo.cs
+C:\Users\Tornike\source\repos\W3School7\W3School7\obj\Debug\netcoreapp3.1\W3School7.csproj.CoreCompileInputs.cache
+C:\Users\Tornike\source\repos\W3School7\W3School7\obj\Debug\netcoreapp3.1\W3School7.dll
+C:\Users\Tornike\source\repos\W3School7\W3School7\obj\Debug\netcoreapp3.1\W3School7.pdb
+C:\Users\Tornike\source\repos\W3School7\W3School7\obj\Debug\netcoreapp3.1\W3School7.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Tornike\source\repos\W3School8\Task104\bin\Debug\netcoreapp3.1\Task104.exe
+C:\Users\Tornike\source\repos\W3School8\Task104\bin\Debug\netcoreapp3.1\Task104.deps.json
+C:\Users\Tornike\source\repos\W3School8\Task104\bin\Debug\netcoreapp3.1\Task104.runtimeconfig.json
+C:\Users\Tornike\source\repos\W3School8\Task104\bin\Debug\netcoreapp3.1\Task104.runtimeconfig.dev.json
+C:\Users\Tornike\source\repos\W3School8\Task104\bin\Debug\netcoreapp3.1\Task104.dll
+C:\Users\Tornike\source\repos\W3School8\Task104\bin\Debug\netcoreapp3.1\Task104.pdb
+C:\Users\Tornike\source\repos\W3School8\Task104\obj\Debug\netcoreapp3.1\Task104.csproj.AssemblyReference.cache
+C:\Users\Tornike\source\repos\W3School8\Task104\obj\Debug\netcoreapp3.1\Task104.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tornike\source\repos\W3School8\Task104\obj\Debug\netcoreapp3.1\Task104.AssemblyInfoInputs.cache
+C:\Users\Tornike\source\repos\W3School8\Task104\obj\Debug\netcoreapp3.1\Task104.AssemblyInfo.cs
+C:\Users\Tornike\source\repos\W3School8\Task104\obj\Debug\netcoreapp3.1\Task104.csproj.CoreCompileInputs.cache
+C:\Users\Tornike\source\repos\W3School8\Task104\obj\Debug\netcoreapp3.1\Task104.dll
+C:\Users\Tornike\source\repos\W3School8\Task104\obj\Debug\netcoreapp3.1\Task104.pdb
+C:\Users\Tornike\source\repos\W3School8\Task104\obj\Debug\netcoreapp3.1\Task104.genruntimeconfig.cache
