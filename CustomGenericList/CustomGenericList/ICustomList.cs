@@ -8,6 +8,7 @@ namespace CustomGenericList
     {
         void AddItem(T data);
         void RemoveItem(T data);
+        void AddToBeginning(T value);
         void Print();
         bool Exists();
     }

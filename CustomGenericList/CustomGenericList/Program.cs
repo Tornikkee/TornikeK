@@ -15,6 +15,7 @@ namespace CustomGenericList
             myCustomList.AddItem(500);
             myCustomList.AddItem(99);
             myCustomList.AddItem(207);
+            myCustomList.AddToBeginning(5);
             
             myCustomList.Print();
 
@@ -32,6 +33,7 @@ namespace CustomGenericList
             persons.AddItem(new Person { Name = "Lea", Age = 31, City = "Paris" });
             persons.AddItem(new Person { Name = "Sophie", Age = 12, City = "London" });
             persons.AddItem(new Person { Name = "Kate", Age = 24, City = "Bournemouth" });
+            persons.AddToBeginning(new Person { Name = "Novak", Age = 34, City = "Belgrade" });
 
             
 

@@ -57,6 +57,20 @@ namespace CustomGenericList
             }
         }
 
+        public void AddToBeginning(T value)
+        {
+            if(headNode == null)
+            {
+                headNode = new Node<T>(value);
+            }
+            else
+            {
+                var node = new Node<T>(value);
+                node.next = headNode;
+                headNode = node;
+            }
+        }
+
         public void Print()
         {
             Node<T> current = headNode;

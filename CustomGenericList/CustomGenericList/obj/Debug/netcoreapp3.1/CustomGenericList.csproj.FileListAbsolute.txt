@@ -12,3 +12,17 @@ C:\Users\Tornike\source\repos\CustomGenericList\CustomGenericList\obj\Debug\netc
 C:\Users\Tornike\source\repos\CustomGenericList\CustomGenericList\obj\Debug\netcoreapp3.1\CustomGenericList.dll
 C:\Users\Tornike\source\repos\CustomGenericList\CustomGenericList\obj\Debug\netcoreapp3.1\CustomGenericList.pdb
 C:\Users\Tornike\source\repos\CustomGenericList\CustomGenericList\obj\Debug\netcoreapp3.1\CustomGenericList.genruntimeconfig.cache
+C:\Users\Tornike\source\repos\TornikeK\CustomGenericList\CustomGenericList\bin\Debug\netcoreapp3.1\CustomGenericList.exe
+C:\Users\Tornike\source\repos\TornikeK\CustomGenericList\CustomGenericList\bin\Debug\netcoreapp3.1\CustomGenericList.deps.json
+C:\Users\Tornike\source\repos\TornikeK\CustomGenericList\CustomGenericList\bin\Debug\netcoreapp3.1\CustomGenericList.runtimeconfig.json
+C:\Users\Tornike\source\repos\TornikeK\CustomGenericList\CustomGenericList\bin\Debug\netcoreapp3.1\CustomGenericList.runtimeconfig.dev.json
+C:\Users\Tornike\source\repos\TornikeK\CustomGenericList\CustomGenericList\bin\Debug\netcoreapp3.1\CustomGenericList.dll
+C:\Users\Tornike\source\repos\TornikeK\CustomGenericList\CustomGenericList\bin\Debug\netcoreapp3.1\CustomGenericList.pdb
+C:\Users\Tornike\source\repos\TornikeK\CustomGenericList\CustomGenericList\obj\Debug\netcoreapp3.1\CustomGenericList.csproj.AssemblyReference.cache
+C:\Users\Tornike\source\repos\TornikeK\CustomGenericList\CustomGenericList\obj\Debug\netcoreapp3.1\CustomGenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tornike\source\repos\TornikeK\CustomGenericList\CustomGenericList\obj\Debug\netcoreapp3.1\CustomGenericList.AssemblyInfoInputs.cache
+C:\Users\Tornike\source\repos\TornikeK\CustomGenericList\CustomGenericList\obj\Debug\netcoreapp3.1\CustomGenericList.AssemblyInfo.cs
+C:\Users\Tornike\source\repos\TornikeK\CustomGenericList\CustomGenericList\obj\Debug\netcoreapp3.1\CustomGenericList.csproj.CoreCompileInputs.cache
+C:\Users\Tornike\source\repos\TornikeK\CustomGenericList\CustomGenericList\obj\Debug\netcoreapp3.1\CustomGenericList.dll
+C:\Users\Tornike\source\repos\TornikeK\CustomGenericList\CustomGenericList\obj\Debug\netcoreapp3.1\CustomGenericList.pdb
+C:\Users\Tornike\source\repos\TornikeK\CustomGenericList\CustomGenericList\obj\Debug\netcoreapp3.1\CustomGenericList.genruntimeconfig.cache
