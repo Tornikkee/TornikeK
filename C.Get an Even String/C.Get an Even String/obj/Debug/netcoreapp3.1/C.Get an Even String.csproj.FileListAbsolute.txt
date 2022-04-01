@@ -1,0 +1,14 @@
+C:\Users\Tornike\source\repos\C.Get an Even String\C.Get an Even String\bin\Debug\netcoreapp3.1\C.Get an Even String.exe
+C:\Users\Tornike\source\repos\C.Get an Even String\C.Get an Even String\bin\Debug\netcoreapp3.1\C.Get an Even String.deps.json
+C:\Users\Tornike\source\repos\C.Get an Even String\C.Get an Even String\bin\Debug\netcoreapp3.1\C.Get an Even String.runtimeconfig.json
+C:\Users\Tornike\source\repos\C.Get an Even String\C.Get an Even String\bin\Debug\netcoreapp3.1\C.Get an Even String.runtimeconfig.dev.json
+C:\Users\Tornike\source\repos\C.Get an Even String\C.Get an Even String\bin\Debug\netcoreapp3.1\C.Get an Even String.dll
+C:\Users\Tornike\source\repos\C.Get an Even String\C.Get an Even String\bin\Debug\netcoreapp3.1\C.Get an Even String.pdb
+C:\Users\Tornike\source\repos\C.Get an Even String\C.Get an Even String\obj\Debug\netcoreapp3.1\C.Get an Even String.csproj.AssemblyReference.cache
+C:\Users\Tornike\source\repos\C.Get an Even String\C.Get an Even String\obj\Debug\netcoreapp3.1\C.Get an Even String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tornike\source\repos\C.Get an Even String\C.Get an Even String\obj\Debug\netcoreapp3.1\C.Get an Even String.AssemblyInfoInputs.cache
+C:\Users\Tornike\source\repos\C.Get an Even String\C.Get an Even String\obj\Debug\netcoreapp3.1\C.Get an Even String.AssemblyInfo.cs
+C:\Users\Tornike\source\repos\C.Get an Even String\C.Get an Even String\obj\Debug\netcoreapp3.1\C.Get an Even String.csproj.CoreCompileInputs.cache
+C:\Users\Tornike\source\repos\C.Get an Even String\C.Get an Even String\obj\Debug\netcoreapp3.1\C.Get an Even String.dll
+C:\Users\Tornike\source\repos\C.Get an Even String\C.Get an Even String\obj\Debug\netcoreapp3.1\C.Get an Even String.pdb
+C:\Users\Tornike\source\repos\C.Get an Even String\C.Get an Even String\obj\Debug\netcoreapp3.1\C.Get an Even String.genruntimeconfig.cache

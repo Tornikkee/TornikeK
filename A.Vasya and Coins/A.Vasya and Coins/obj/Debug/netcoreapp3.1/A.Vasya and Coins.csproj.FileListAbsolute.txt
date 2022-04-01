@@ -1,0 +1,14 @@
+C:\Users\Tornike\source\repos\A.Vasya and Coins\A.Vasya and Coins\bin\Debug\netcoreapp3.1\A.Vasya and Coins.exe
+C:\Users\Tornike\source\repos\A.Vasya and Coins\A.Vasya and Coins\bin\Debug\netcoreapp3.1\A.Vasya and Coins.deps.json
+C:\Users\Tornike\source\repos\A.Vasya and Coins\A.Vasya and Coins\bin\Debug\netcoreapp3.1\A.Vasya and Coins.runtimeconfig.json
+C:\Users\Tornike\source\repos\A.Vasya and Coins\A.Vasya and Coins\bin\Debug\netcoreapp3.1\A.Vasya and Coins.runtimeconfig.dev.json
+C:\Users\Tornike\source\repos\A.Vasya and Coins\A.Vasya and Coins\bin\Debug\netcoreapp3.1\A.Vasya and Coins.dll
+C:\Users\Tornike\source\repos\A.Vasya and Coins\A.Vasya and Coins\bin\Debug\netcoreapp3.1\A.Vasya and Coins.pdb
+C:\Users\Tornike\source\repos\A.Vasya and Coins\A.Vasya and Coins\obj\Debug\netcoreapp3.1\A.Vasya and Coins.csproj.AssemblyReference.cache
+C:\Users\Tornike\source\repos\A.Vasya and Coins\A.Vasya and Coins\obj\Debug\netcoreapp3.1\A.Vasya and Coins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tornike\source\repos\A.Vasya and Coins\A.Vasya and Coins\obj\Debug\netcoreapp3.1\A.Vasya and Coins.AssemblyInfoInputs.cache
+C:\Users\Tornike\source\repos\A.Vasya and Coins\A.Vasya and Coins\obj\Debug\netcoreapp3.1\A.Vasya and Coins.AssemblyInfo.cs
+C:\Users\Tornike\source\repos\A.Vasya and Coins\A.Vasya and Coins\obj\Debug\netcoreapp3.1\A.Vasya and Coins.csproj.CoreCompileInputs.cache
+C:\Users\Tornike\source\repos\A.Vasya and Coins\A.Vasya and Coins\obj\Debug\netcoreapp3.1\A.Vasya and Coins.dll
+C:\Users\Tornike\source\repos\A.Vasya and Coins\A.Vasya and Coins\obj\Debug\netcoreapp3.1\A.Vasya and Coins.pdb
+C:\Users\Tornike\source\repos\A.Vasya and Coins\A.Vasya and Coins\obj\Debug\netcoreapp3.1\A.Vasya and Coins.genruntimeconfig.cache

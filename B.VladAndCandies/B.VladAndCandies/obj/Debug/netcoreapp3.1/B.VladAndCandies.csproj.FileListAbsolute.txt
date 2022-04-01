@@ -1,0 +1,14 @@
+C:\Users\Tornike\source\repos\B.VladAndCandies\B.VladAndCandies\bin\Debug\netcoreapp3.1\B.VladAndCandies.exe
+C:\Users\Tornike\source\repos\B.VladAndCandies\B.VladAndCandies\bin\Debug\netcoreapp3.1\B.VladAndCandies.deps.json
+C:\Users\Tornike\source\repos\B.VladAndCandies\B.VladAndCandies\bin\Debug\netcoreapp3.1\B.VladAndCandies.runtimeconfig.json
+C:\Users\Tornike\source\repos\B.VladAndCandies\B.VladAndCandies\bin\Debug\netcoreapp3.1\B.VladAndCandies.runtimeconfig.dev.json
+C:\Users\Tornike\source\repos\B.VladAndCandies\B.VladAndCandies\bin\Debug\netcoreapp3.1\B.VladAndCandies.dll
+C:\Users\Tornike\source\repos\B.VladAndCandies\B.VladAndCandies\bin\Debug\netcoreapp3.1\B.VladAndCandies.pdb
+C:\Users\Tornike\source\repos\B.VladAndCandies\B.VladAndCandies\obj\Debug\netcoreapp3.1\B.VladAndCandies.csproj.AssemblyReference.cache
+C:\Users\Tornike\source\repos\B.VladAndCandies\B.VladAndCandies\obj\Debug\netcoreapp3.1\B.VladAndCandies.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tornike\source\repos\B.VladAndCandies\B.VladAndCandies\obj\Debug\netcoreapp3.1\B.VladAndCandies.AssemblyInfoInputs.cache
+C:\Users\Tornike\source\repos\B.VladAndCandies\B.VladAndCandies\obj\Debug\netcoreapp3.1\B.VladAndCandies.AssemblyInfo.cs
+C:\Users\Tornike\source\repos\B.VladAndCandies\B.VladAndCandies\obj\Debug\netcoreapp3.1\B.VladAndCandies.csproj.CoreCompileInputs.cache
+C:\Users\Tornike\source\repos\B.VladAndCandies\B.VladAndCandies\obj\Debug\netcoreapp3.1\B.VladAndCandies.dll
+C:\Users\Tornike\source\repos\B.VladAndCandies\B.VladAndCandies\obj\Debug\netcoreapp3.1\B.VladAndCandies.pdb
+C:\Users\Tornike\source\repos\B.VladAndCandies\B.VladAndCandies\obj\Debug\netcoreapp3.1\B.VladAndCandies.genruntimeconfig.cache
