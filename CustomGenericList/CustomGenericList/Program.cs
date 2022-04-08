@@ -48,8 +48,7 @@ namespace CustomGenericList
             foreach (var item in persons)
             {
                 Console.WriteLine($"{item.Name}, {item.Age}, {item.City}");
-            }
-
+            }       
         }
     }
 }
