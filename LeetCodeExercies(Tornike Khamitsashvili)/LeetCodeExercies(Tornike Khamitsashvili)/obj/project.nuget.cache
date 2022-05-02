@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gYVFO9KHsOucio2wKtATAdoz8i9h2S+jZ9Bb9vsrIav746ipl6/ZQmxaGK9ugy6jw59zDoJbQJkuw3dlr00Y6Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tornike\\source\\repos\\TornikeK\\LeetCodeExercies(Tornike Khamitsashvili)\\LeetCodeExercies(Tornike Khamitsashvili)\\LeetCodeExercies(Tornike Khamitsashvili).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tornike\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
