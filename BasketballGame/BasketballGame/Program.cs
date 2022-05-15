@@ -43,7 +43,7 @@ static int CalPoints(string[] ops)
 {
     if(ops.Length < 1 || ops.Length > 1000)
     {
-        throw new LengthLimitException("Minimum length should be 1 and maximum 1000");
+        throw new LengthLimitException("Minimum input length should be 1 and maximum 1000");
     }
     
     int result = 0;
@@ -72,11 +72,11 @@ static int CalPoints(string[] ops)
             scores[index] = Convert.ToInt32(ops[i]);
             if(scores[index] < -30000)
             {
-                throw new NumberLimitException("Minimum input element should be -30 000 and maximum 30 000");
+                throw new NumberLimitException("Minimum amount of input element should be -30 000 and maximum 30 000");
             }
             else if(scores[index] > 30000)
             {
-                throw new NumberLimitException("Minimum input element should be -30 000 and maximum 30 000");
+                throw new NumberLimitException("Minimum amount of input element should be -30 000 and maximum 30 000");
             }
             index++;
         }
